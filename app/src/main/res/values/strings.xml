@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SayiTahminOyunu</string>
+    <string name="hint_text">1 ile 30 arasında bir sayı giriniz</string>
+    <string name="first_radio_text">"Yok daha neler hilesi (1-5)"</string>
+    <string name="second_radio_text">"İnsaflı hile (1-15)"</string>
+    <string name="third_radio_text">"Adam olana çok bile hilesi (1-27)"</string>
+    <string name="switch_text">"Hile açılsın mı?"</string>
+    <string name="button_text">"GÖSTER"</string>
+    <string name="deneme">"Deneme"</string>
+</resources>
